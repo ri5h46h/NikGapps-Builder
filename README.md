@@ -1,7 +1,7 @@
 # Building a Custom NikGapps Package
 
 ## Steps
-1. Fork [this repo](https://github.com/Sushrut1101/NikGapps-Builder.git)
+1. Fork [this repo](https://github.com/ri5h46h/NikGapps-Builder.git)
 2. Update ```custom.config``` According to your Needs
 3. Go to the Actions Tab
 4. Select "Build NikGapps Package"
